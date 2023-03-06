@@ -1,0 +1,11 @@
+{
+  "title": "Cliff Height Timer",
+  "drawer":{
+    "home": "Accueil",
+    "history": "Historique",
+    "about": "A propos",
+    "manualhistory": "Historique Manuelle",
+    "contact": "Formulaire de contact",
+    "testimonials": "Témoignages"
+  }
+}
